@@ -57,10 +57,10 @@ Os dados são armazenados em um array de structs com capacidade para até 100 co
 
 ```
 gerenciador-contatos/
-├── main.c
+├── README.md
 ├── contatos.c
 ├── contatos.h
-└── README.md
+└── main.c
 
 ```
 
